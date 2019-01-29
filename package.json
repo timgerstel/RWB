@@ -1,0 +1,25 @@
+{
+  "name": "RWB",
+  "version": "1.0.0",
+  "description": "React+Webpack+Babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timgerstel/RWB.git"
+  },
+  "keywords": [],
+  "author": "Timothy Gerstel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timgerstel/RWB/issues"
+  },
+  "homepage": "https://github.com/timgerstel/RWB#readme",
+  "devDependencies": {
+    "webpack": "^4.29.0",
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
